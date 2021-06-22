@@ -1,0 +1,38 @@
+body {
+  width:1000px;
+  margin:0 auto;
+  background-color:lightgrey;
+}
+
+.title {
+  color:blue;
+  text-align:center;
+  font-size:50px;
+  background-color:grey;
+  margin-top:10px;
+  border-radius:10px;
+}
+
+.navbar {
+  text-align:center;
+}
+
+.navbar a {
+  margin-left: 10px;
+  margin-right:10px;
+  text-decoration:none;
+  color:blue;
+}
+
+.navbar a:hover {
+  text-decoration:underline;
+  color:green;
+}
+
+.paragraph {
+  color:darkred;
+}
+
+.images {
+  text-align:center;
+}
